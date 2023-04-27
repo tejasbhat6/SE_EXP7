@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Hello tejas HOw are you ?
-=======
+
 Hello how are Tejas
->>>>>>> exp1
+HELLO 
